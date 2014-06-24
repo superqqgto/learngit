@@ -1,0 +1,10 @@
+创建空目录：
+mkdir learngit
+cd learngit
+pwd
+
+目录变成git仓库
+git init
+git add 你需要的文件 可反复多次使用
+git commit -m "说明"
+
